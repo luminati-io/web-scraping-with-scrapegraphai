@@ -74,7 +74,7 @@ This file should not be committed to version control systems like Git. To preven
 
 Start by scraping product data from [Books to Scrape](http://books.toscrape.com/), a demo website specifically for practicing web scraping techniques. This website mimics an online bookstore, offering a variety of books across different genres, complete with prices, ratings, and availability status:
 
-![Books to Scrape website](https://brightdata.com/wp-content/uploads/2024/10/Books-to-Scrape-website-1024x772.png)
+![Books to Scrape website](https://github.com/luminati-io/web-scraping-with-scrapegraphai/blob/main/images/Books-to-Scrape-website-1024x772.png)
 
 In traditional HTML scraping, you manually inspect elements to extract data. With ScrapeGraphAI, simply specify your desired data using a prompt, and the LLM extracts it for you.
 
@@ -254,7 +254,7 @@ Open your terminal and run `python app.py`. The output should look like this:
 4  Sapiens: A Brief History of Humankind  54.23     in stock
 ```
 
-This is just an example of cleaning scraped data; the process varies based on the data and LLM use case. Cleaning ensures your language models receive structured and meaningful input.
+This is just an example of cleaning scraped data; the process varies based on the data and LLM use case. Cleaning ensures your language models receive structured and meaningful input. Learn about the most popular [AI use cases](https://brightdata.com/ai).
 
 You can find all the code for this tutorial in [this GitHub repo](https://github.com/mikeyny/scrapegraphai-demo).
 
@@ -262,6 +262,6 @@ You can find all the code for this tutorial in [this GitHub repo](https://github
 
 ScrapeGraphAI uses LLMs for adaptive web scraping, adjusting to website changes and extracting data intelligently. However, scaling scraping comes with challenges like IP blocks, CAPTCHAs, and legal compliance.
 
-Bright Data offers solutions to address these challenges, including Web Scraper APIs, proxy services, and [Serverless Scraping](https://brightdata.com/products/web-scraper/functions). They also provide ready-to-use datasets from over a hundred popular websites.
+Bright Data offers solutions to address these challenges, including [Web Scraper APIs](https://brightdata.com/products/web-scraper), [proxy services](https://brightdata.com/proxy-types), and [Serverless Scraping](https://brightdata.com/products/web-scraper/functions). They also provide [ready-to-use datasets](https://brightdata.com/products/datasets) from over a hundred popular websites.
 
 Start your free trial today!
